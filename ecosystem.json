@@ -1,0 +1,21 @@
+{
+  "name": "Heaven Ecosystem",
+  "description": "Public showcase of Research Agent + BML integration for optimal human-AI collaboration",
+  "type": "ecosystem_meta",
+  "sections": {
+    "Core Framework": {
+      "description": "Essential HEAVEN components",
+      "repos": [],
+      "auto_discover": true,
+      "show_stats": true
+    }
+  },
+  "template": "ecosystem",
+  "auto_update": true,
+  "badges": {
+    "license": true,
+    "version": true,
+    "stars": true,
+    "last_updated": true
+  }
+}
