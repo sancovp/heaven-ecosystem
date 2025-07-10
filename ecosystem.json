@@ -5,7 +5,9 @@
   "sections": {
     "Core Framework": {
       "description": "Essential HEAVEN components",
-      "repos": [],
+      "repos": [
+        "sancovp/heaven-bml"
+      ],
       "auto_discover": true,
       "show_stats": true
     }
