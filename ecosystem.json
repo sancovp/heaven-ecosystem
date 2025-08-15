@@ -1,12 +1,16 @@
 {
   "name": "Heaven Ecosystem",
-  "description": "Public showcase of Research Agent + BML integration for optimal human-AI collaboration",
+  "description": "Meta-repository for all HEAVEN ecosystem repositories",
   "type": "ecosystem_meta",
   "sections": {
     "Core Framework": {
       "description": "Essential HEAVEN components",
       "repos": [
-        "sancovp/heaven-bml"
+        "sancovp/heaven-bml",
+        "sancovp/heaven-framework",
+        "sancovp/brain-agent",
+        "sancovp/heaven-tree-repl",
+        "sancovp/largechain"
       ],
       "auto_discover": true,
       "show_stats": true
