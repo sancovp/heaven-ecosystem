@@ -18,4 +18,4 @@ HEAVEN is a metaprogramming environment for AI agents. It can be configured to r
   5. Self-Modifying Systems → Templates evolving their own patterns that modify types of each other
 
 #### How Does It Work?
-Programming is pattern instantiation and LLMs are pattern instantiation machines. Everything else is higher levels of complexity derived from combinations of pattern instantiations.
+Programming is pattern instantiation and LLMs are pattern instantiation machines. Everything else is higher levels of complexity derived from combinations of pattern instantiations. In principle, meta-templated examples enable LLMs to pattern match and madlib their way to working code.
