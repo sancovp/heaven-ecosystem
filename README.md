@@ -1,1 +1,1 @@
-![HEAVEN Logo](heaven_logo.png)
+![HEAVEN Logo](https://example.com/heaven_logo.png)
