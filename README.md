@@ -2,7 +2,15 @@
 ![HEAVEN Logo](https://github.com/sancovp/heaven-ecosystem/blob/main/images/heaven_logo.png)
 
 ## About HEAVEN
-HEAVEN is a metaprogramming environment for AI agents. It can be configured to run on [HEAVEN FRAMEWORK](https://github.com/sancovp/heaven-framework/tree/main) or your favorite agent framework (if you make adaptors). HEAVEN can call down into either ADK, LangChain, or uni-api by default. 
+HEAVEN is a metaprogramming environment for AI agents. It can be configured to run on [HEAVEN FRAMEWORK](https://github.com/sancovp/heaven-framework/tree/main) or your favorite agent framework (if you make adaptors). HEAVEN can call down into either ADK, LangChain, or uni-api by default. It enables AI agents to evolve themselves from personas to capable agents equipped with various API tools and custom prompt flows through safely modifying their own code, adding/creating tools during runtime flows, creating/testing/integrating new agents. 
+
+#### Goals
+The goals of the HEAVEN project are as follows:
+- Gain programmatic control over every aspect involved in an AI agent's epistemology [✅]
+- Give that control to the agent in a specifically controlled setting where it is all running hot and can cool down (anneal, think SA with agents where the heatmap represents hot as when there is loss of context and cooling down means gaining a reusable execution pathway and cold means there is a golden pathway).
+- Use such an agent in everyday life as an automation engineer and task orchestrator that can create agents that each have their own dev-CICD software development lifecycles
+- Create a RPG-like system whereby what the user imagines can be built through an RTS-like system
+- Run everything on a computational graph, creating a mathematical space to analyze the agents within [✅] 
 
 #### Programming Paradigms You Know VS HEAVEN
 - In Traditional Programming, a Human fills in the templates called programming syntax in order to speak a programming language. The acceptable symbols and way they work in the syntax is called a grammar.
