@@ -31,3 +31,5 @@ The goals of the HEAVEN project are as follows:
 
 #### How Does It Work?
 Programming is pattern instantiation and LLMs are pattern instantiation machines. Everything else is higher levels of complexity derived from combinations of pattern instantiations. In principle, meta-templated examples enable LLMs to pattern match and madlib their way to working code.
+
+## HEAVENly Repositories
