@@ -1,5 +1,5 @@
 # HEAVEN Ecosystem
-![HEAVEN Logo](https://github.com/sancovp/heaven-ecosystem/blob/main/images/heaven_logo_transparent.png)
+![HEAVEN Logo](https://github.com/sancovp/heaven-ecosystem/blob/main/images/heaven_logo_transparent_2.png)
 
 ## About HEAVEN
 HEAVEN is a metaprogramming environment for AI agents. It can be configured to run on [HEAVEN FRAMEWORK](https://github.com/sancovp/heaven-framework/tree/main) or your favorite agent framework (if you make adaptors). HEAVEN can call down into either ADK, LangChain, or uni-api by default. 
