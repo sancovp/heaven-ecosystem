@@ -1,8 +1,11 @@
 # HEAVEN Ecosystem
 ![HEAVEN Logo](https://github.com/sancovp/heaven-ecosystem/blob/main/images/heaven_logo.png)
 
-## About HEAVEN
-HEAVEN is a metaprogramming environment for AI agents. It can be configured to run on [HEAVEN FRAMEWORK](https://github.com/sancovp/heaven-framework/tree/main) or your favorite agent framework (if you make adaptors). HEAVEN can call down into either ADK, LangChain, or uni-api by default. It enables AI agents to evolve themselves from personas to capable agents equipped with various API tools and custom prompt flows through safely modifying their own code, adding/creating tools during runtime flows, creating/testing/integrating new agents. 
+## Why HEAVEN?
+HEAVEN is a metaprogramming environment for AI agents. Unlike traditional frameworks that focus on static prompt chains, HEAVEN is designed for:
+- **Evolutionary Growth**: Agents modify their own prompts, tools, and code during runtime.
+- **Framework Flexibility**: Works with HEAVEN Framework by default, or adapts to LangChain, ADK, or uni-api.
+- **Controlled Self-Modification**: Safe environments where agents test and anneal their own changes.
 
 #### Goals
 The goals of the HEAVEN project are as follows:
