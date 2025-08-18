@@ -6,7 +6,7 @@ HEAVEN is a metaprogramming environment for AI agents. It can be configured to r
 
 #### Goals
 The goals of the HEAVEN project are as follows:
-- Gain programmatic control over every aspect involved in an AI agent's epistemology [✅]
+- Gain programmatic control over every aspect involved in an AI agent's epistemology through [HEAVEN FRAMEWORK](https://github.com/sancovp/heaven-framework/tree/main) (specifically the prompt engineering, context engineering, and tool engineering aspects) [✅]
 - Give that control to the agent in a specifically controlled setting where it is all running hot and can cool down (anneal, think SA with agents where the heatmap represents hot as when there is loss of context and cooling down means gaining a reusable execution pathway and cold means there is a golden pathway).
 - Create a RPG-like system whereby what the user imagines can be built through an RTS-like system using [TreeShell](https://github.com/sancovp/heaven-tree-repl/tree/main)
 - Run everything on a computational graph, creating a mathematical space to analyze the agents within [✅]
