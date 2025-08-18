@@ -4,7 +4,7 @@
 ## Why HEAVEN?
 HEAVEN is a metaprogramming environment for AI agents. Unlike traditional frameworks that focus on static prompt chains, HEAVEN is designed for:
 - **Evolutionary Growth**: Agents modify their own prompts, tools, and code during runtime.
-- **Framework Flexibility**: Works with HEAVEN Framework by default with adaptors to LangChain, ADK, or uni-api.
+- **Framework Flexibility**: Works with HEAVEN Framework by default with LangChain, ADK, or uni-api under-the-hood.
 - **Controlled Self-Modification**: Safe environments where agents test and anneal their own changes.
 
 #### Goals
