@@ -7,7 +7,7 @@ HEAVEN is a metaprogramming environment for AI agents. It can be configured to r
 #### Programming Paradigms You Know VS HEAVEN
 - In Traditional Programming, a Human fills in the templates called programming syntax in order to speak a programming language. The acceptable symbols and way they work in the syntax is called a grammar.
 
-- In LLM Programming, AI fills in the templates and speaks the programming language for you (hopefully)
+- In LLM Programming (Vibe Coding, most agents, most workflows), AI fills in the templates and speaks the programming language for you (hopefully)
 - But in the HEAVENly Approach, AI creates templates that create templates that create code that can evolve itself!
 
   The progression:
